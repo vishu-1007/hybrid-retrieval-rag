@@ -2,7 +2,7 @@
 
 Built an end-to-end **Retrieval-Augmented Generation (RAG)** system that classifies customer support complaints and generates structured resolution steps using hybrid search and Gemini 2.5 Flash.
 
-🔗 **[Live Demo](https://your-vercel-link.vercel.app)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
+🔗 **[Live Demo](https://hybrid-retrieval-rag.streamlit.app/)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
 
 ---
 
